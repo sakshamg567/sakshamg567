@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on a Random cool Project <br>👯 I’m looking to collaborate on interesting Projects<br>🌱 I’m currently learning Backend Developement<br>💬 Ask me about Random Programming Stuff<br>⚡ Fun fact : I Have over 20 unfinished projects
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saksham_gupta567) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamg123) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/skshmgpt) 
 
@@ -11,9 +7,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=sakshamg567&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sakshamg567&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamg567&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sakshamg567&icon=0&color=2)](https://visitcount.itsvg.in)
