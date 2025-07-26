@@ -1,3 +1,7 @@
+## ~whoami:
+Hi, I'm Saksham. A cs undergrad and self-taught developer. I love to write code, and ship cool software. Building cool weird stuff on the internet (check out [checksketch](https://checksketch.vercel.app) btw). Full Time Vibe Coder, part time purist programmer
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saksham_gupta567) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamg123) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/skshmgpt) 
 
