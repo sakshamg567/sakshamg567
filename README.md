@@ -15,5 +15,3 @@ Full Time Vibe Coder, part time purist programmer.
 > frontend:   react | vite | tailwind | next  
 > devops:     aws | vercel | git | github
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sakshamg567&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
