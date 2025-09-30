@@ -1,11 +1,12 @@
-## ~whoami:
-i write code (yeah, that's it)
+<h1 align="center">Saksham Gupta</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamg123) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/skshmgpt) 
+## ~whoami:
+Engineer. Deep diving into backend and distributed systems lately. 
 
 # tech stack
-> langs:      c | c++ | js/ts | go  
-> backend:    node | express | jwt | mongo | nginx  
-> frontend:   react | vite | tailwind | next  
-> devops:     aws | vercel | git | github
+* go · typescript · grpc · C (lil bit) · Redis · Postgres
+
+# contact
+* email - saksham060306@gmail.com
+* X (most active here) - [@skshmgpt](https://x.com/skshmgpt)
+* LinkedIn - [skshmgpt](https://linkedin.com/in/skshmgpt)
